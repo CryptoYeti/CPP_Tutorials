@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483474412 source:c:\projects\buckys\tutorial_71 strings\main.cpp
+	<iostream>
+	<string>
+
